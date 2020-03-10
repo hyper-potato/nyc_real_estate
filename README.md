@@ -1,7 +1,6 @@
 
 
-Project: Airbnb & Zillow Data Analysis (Data Challenge for Capital One Senior Data Analyst Application)
-
+Project: Airbnb & Zillow Data Analysis 
 ---
 
 Description: A Data Analysis of Airbnb Listing Market and Zillow Housing Trend in New York City for 2-bedroom segment to find out the most profitable area to invest in properties for short-term rental business. 
